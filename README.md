@@ -1,3 +1,2 @@
 # university-management-system
-source code
-This is a university management system project.
+This is a university management system project source code.
